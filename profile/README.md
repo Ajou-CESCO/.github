@@ -1,6 +1,6 @@
 ## 💊 PillinTime
 
-![title-Image](https://github.com/Ajou-CESCO/PillinTime-iOS/assets/79050615/0ed6c4a6-2f21-4a56-97af-5930ac05a048)   
+![SW캡스톤디자인_CESCO_썸네일](https://github.com/Ajou-CESCO/.github/assets/52846766/b92232ed-3fb7-4006-aa93-8a3b12a2d04f)
 
 <br>
 
